@@ -1,0 +1,14 @@
+.quienes{
+    display: grid;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 20px;
+}
+.todo{
+    padding-top: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+    display: grid;
+}
+
+
